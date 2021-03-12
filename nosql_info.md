@@ -1,5 +1,7 @@
 
-#### Comparison between SQL and NoSQL Databases  
+## Comparison between SQL and NoSQL Databases  
+
+<br>
 
 | Property | SQL Databases | NoSQL Databases |
 |-|-|-|
