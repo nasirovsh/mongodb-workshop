@@ -1,5 +1,5 @@
 ## Sample data for testing
-
+<br>
 
 There is available sample data [here](https://docs.atlas.mongodb.com/sample-data/available-sample-datasets/) you can load into MongoDB Atlas cluster.
 
